@@ -44,7 +44,7 @@ they might be able to create the right conditions for pollinators. This means th
 than asking one farmer to increase bee-friendly habitats. This is because the size of a single farm might be too small to match the large-scale needs 
 of the pollination process, and this is an example of scale mismatch.
 
-{{< figure src="images/Fig1.png" title="The three types of mismatches" class="w-50 p-3 float-start" >}}
+{{< figure src="content/images/fig1.png" title="The three types of mismatches" class="w-50 p-3 float-start" >}}
 
 {{< section >}}
 ## Best Practices and Opportunities
@@ -60,5 +60,3 @@ habitat is arranged. The layout and size of the land can influence how well it s
 
 By considering these points, we can better understand how to manage and support many ecosystem services like pollination. It helps in creating a plan 
 that fits the specific needs of the area and the people who depend on these services.
-
-{{< /section >}}
