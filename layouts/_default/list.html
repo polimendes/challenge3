@@ -1,0 +1,19 @@
+{{- define "main" -}}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Section: {{ .Title }} | {{ .Site.Title }}</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <h1>{{ .Title }} Articles</h1>
+    {{ range .Paginator.Pages }}
+        <div>
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <p>{{ .Summary }}</p>
+        </div>
+    {{ end }}
+</body>
+</html>
+{{- end }}
