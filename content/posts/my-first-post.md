@@ -1,11 +1,6 @@
 ---
-layers: "esri_topo,monteregie_municipalities"
-zoom: 9
-lat: 45.6
-lng: -73.8
 title: "Spatial, temporal, & scale mismatches"
-subtitle: "Sometimes, the need for an ecosystem service and the ability of the environment to provide that service don't match up. Here we discuss 
-mismatches occurring across space, time and scale."
+subtitle: "Sometimes, the need for an ecosystem service and the ability of the environment to provide that service don't match up. Here we discuss mismatches occurring across space, time and scale."
 date: 2024-05-13
 draft: false
 ---
