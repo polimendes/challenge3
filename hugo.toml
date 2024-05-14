@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://polimendes.github.io/challenge3'
 languageCode = 'en-us'
 title = 'Challenge3'
 contentDir = "content"
