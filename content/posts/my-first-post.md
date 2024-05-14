@@ -4,12 +4,12 @@ zoom: 9
 lat: 45.6
 lng: -73.8
 title: "Spatial, temporal, & scale mismatches"
-subtitle: "Sometimes, the need for an ecosystem service and the ability of the environment to provide that service don't match up. Here we discuss mismatches occurring across space, time and scale."
+subtitle: "Sometimes, the need for an ecosystem service and the ability of the environment to provide that service don't match up. Here we discuss 
+mismatches occurring across space, time and scale."
 date: 2024-05-13
 draft: false
 ---
 
-{{< section >}}
 ## Introduction
 
 Sometimes, the need for an ecosystem service (demand) and the ability of the environment to provide that service (supply) don't match up. 
@@ -46,17 +46,15 @@ of the pollination process, and this is an example of scale mismatch.
 
 {{< figure src="content/images/fig1.png" title="The three types of mismatches" class="w-50 p-3 float-start" >}}
 
-{{< section >}}
 ## Best Practices and Opportunities
 
-Understand the service area: Think about the whole area that benefits from the ecosystem service, like pollination, and identify who or what benefits 
-from it.
-Compare across beneficiaries: Look at different groups or areas that benefit from the service and compare them. This can help identify different needs 
-and how they might be met.
-Identify the benefit gap: Try to figure out where the mismatches between supply and demand are. Where are the needs not being met? Understanding this 
-gap can help in planning how to fix it.
+Understand the service area: Think about the whole area that benefits from the ecosystem service, like pollination, and identify who or what benefits from it.
+Compare across beneficiaries: Look at different groups or areas that benefit from the service and compare them. This can help identify different needs and how 
+they might be met.
+Identify the benefit gap: Try to figure out where the mismatches between supply and demand are. Where are the needs not being met? Understanding this gap can 
+help in planning how to fix it.
 Think about the arrangement and size of habitat areas: It's not just about how much habitat there is for the pollinators, but also about how this 
 habitat is arranged. The layout and size of the land can influence how well it supports the pollinators and provides the needed service.
 
-By considering these points, we can better understand how to manage and support many ecosystem services like pollination. It helps in creating a plan 
-that fits the specific needs of the area and the people who depend on these services.
+By considering these points, we can better understand how to manage and support many ecosystem services like pollination. It helps in creating a plan that fits 
+the specific needs of the area and the people who depend on these services.

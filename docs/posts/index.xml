@@ -9,11 +9,11 @@
     <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/challenge3/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>Spatial, temporal, &amp; scale mismatches</title>
       <link>http://localhost:1313/challenge3/posts/my-first-post/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/challenge3/posts/my-first-post/</guid>
-      <description> ## Section 1: Introduction This is the introduction of my first post. Here, I will explain the basics of my topic. ### Subsection in Section 1 More detailed information about the initial topic. ## Section 2: Analysis This section will delve deeper into the analysis of the data or subject matter discussed in the introduction. ### Subsection in Section 2 Further breakdown of complex analysis points. </description>
+      <description>Introduction Sometimes, the need for an ecosystem service (demand) and the ability of the environment to provide that service (supply) don&amp;rsquo;t match up. No-overlap between supply and demand can occur either in different places (spatial mismatch), at different times (temporal mismatch) or at different scales (scale mismatch).&#xA;For example, some insects, small mammals, and birds contribute to fertilization of plants (that is, to pollination) while they are feeding and moving among flowers.</description>
     </item>
   </channel>
 </rss>
