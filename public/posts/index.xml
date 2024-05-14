@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Challenge3</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:1313/challenge3/posts/</link>
     <description>Recent content in Posts on Challenge3</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/challenge3/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:1313/challenge3/posts/my-first-post/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/challenge3/posts/my-first-post/</guid>
       <description> ## Section 1: Introduction This is the introduction of my first post. Here, I will explain the basics of my topic. ### Subsection in Section 1 More detailed information about the initial topic. ## Section 2: Analysis This section will delve deeper into the analysis of the data or subject matter discussed in the introduction. ### Subsection in Section 2 Further breakdown of complex analysis points. </description>
     </item>
   </channel>
